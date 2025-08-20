@@ -71,8 +71,31 @@
       <recent name="weg.seguranca.service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daniel_sismer\IdeaProjects\WEG-Segura-Sustentavel\seguranca\src\main\resources" />
+      <recent name="C:\Users\daniel_sismer\IdeaProjects\WEG-Segura-Sustentavel\seguranca\src\main\resources\templates\static" />
+      <recent name="C:\Users\daniel_sismer\IdeaProjects\WEG-Segura-Sustentavel\seguranca\src\main\resources\templates" />
       <recent name="C:\Users\daniel_sismer\IdeaProjects\weg-securi" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NoSQLRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weg.seguranca.repository.NoSQLRepository" />
+      <module name="seguranca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weg.seguranca.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NoSQLRepository" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
