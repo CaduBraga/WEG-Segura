@@ -5,20 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d3031e-c2d4-463d-a304-4b54e8a45413" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/EmergenciaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/PessoaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/SalaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/Sala_emergenciaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/mapper/EmergenciaMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/mapper/PessoaMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/mapper/SalaMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/mapper/Sala_emergenciaMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Sala_emergencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguranca.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/DataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Emergencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/config/MqttConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/controller/AlarmController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/controller/DeviceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/controller/SensorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/AlarmDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/DeviceDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/dto/SensorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/exception/CustomExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/exception/DeviceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/exception/InvalidSensorDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Alarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/model/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/repository/AlarmRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/repository/DeviceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/repository/SensorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/service/AlarmService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/service/DeviceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/service/MqttService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seguranca/src/main/java/weg/seguranca/service/SensorService.java" beforeDir="false" />
     </list>
+    <list id="e059e1d5-543b-47ee-b8e5-132388b35d17" name="Changes by maria_e_zabel" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
